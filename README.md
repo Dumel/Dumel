@@ -38,4 +38,4 @@ Recentemente ingressei no curso Técnico de Desenvolvimento de Sistemas do SENAI
 ##  📫 Contatos: 
 
 
-[![Instagram: Melqui](https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg)] (https://www.instagram.com/melqui_de_jesus/) 
+[![Instagram: Melqui](https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg)](https://www.instagram.com/melqui_de_jesus/) 
